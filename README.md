@@ -1,3 +1,3 @@
 # webproject
 
-internship work
+internship part web dev
